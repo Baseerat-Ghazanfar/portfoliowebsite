@@ -1,0 +1,174 @@
+@media only screen and (max-width: 550px)
+{
+    .navbar .container-fluid
+    {
+        height:70px;
+        background-color: rgb(15, 28, 66);
+    }
+    .navbar .container-fluid a
+    {
+       color: aliceblue;
+        text-decoration: none;
+    }
+}
+.navbar .container-fluid
+    {
+        height:70px;
+        background-color: rgb(15, 28, 66);
+    }
+    .navbar .container-fluid a
+    {
+       color: aliceblue;
+        text-decoration: none;
+    }
+
+    .banner {
+        background-color: #f8f9fa;
+        height: 500px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+      
+      .banner img {
+        width: 200px;
+        border-radius: 50%;
+      }
+      
+      /* Sections */
+      section {
+        padding: 100px 0;
+      }
+      
+      section h2 {
+        font-size: 36px;
+        margin-bottom: 50px;
+        text-align: center;
+        color:rgb(240, 160, 11) ;
+      }
+      
+      section p {
+        font-size: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+      }
+      
+      section ul {
+        list-style: none;
+        margin: 0 auto;
+        max-width: 500px;
+      }
+      
+      section ul li {
+        font-size: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+
+      
+      /* Footer */
+      footer {
+        background-color: #343a40;
+        color: #fff;
+        padding: 30px 0;
+        text-align: center;
+      }
+      
+      footer p {
+        font-size: 16px;
+        margin: 0;
+      }
+    #banner
+    {
+        background-color: #343a40;
+        color: #fff;
+
+    }
+    #banner h1 span
+    {
+      color: orange;
+      height: auto;
+    }
+    #banner a
+    {
+      text-decoration: none;
+      color: #f8f9fa;
+  
+    }
+    #hobbies
+    {
+        background-image: url(/images/hobby.jpg);
+        background-size: cover;
+        background: linear-gradient(0,0,0,0.5);
+        height:100vh;
+        color: white;
+    }
+    #skills
+    {
+      background-color: #343a40;
+      color: #f8f9fa;
+    }
+    #ambitions 
+    {
+      background-image: url(/images/ambi.jpg);
+      background-size: cover;
+      background: linear-gradient(0,0,0,0.5);
+      height:100vh;
+      
+    }
+    #person
+    {
+      background-color: darkslategrey;
+      color: #fff;
+      text-align: center;
+    }
+    #person h1
+    {
+ color: rgb(240, 160, 11);
+ text-align: center;
+    }
+    .jumbotron h1
+    {
+      color: rgb(240, 160, 11);
+    }
+    #karachi
+    {
+      background-color: #343a40;
+      color: #f8f9fa;
+      margin-top: 0%;
+    }
+    #lahore
+    {
+      color: black;
+      
+    }
+    #islamabad
+    {
+      background-color: black;
+      color: #fff;
+    }
+    #peshawar
+    {
+      background-color: darkolivegreen;
+      color: #fff;
+    }
+  #tourist-spots
+  {
+    text-align: center;
+  }
+  .bg-light h1
+  {
+    color: rgb(240, 160, 11);
+
+  }
+  #tourist-spots
+  {
+    background-color: darkslategrey;
+    margin-top: 0%;
+  }
+  #form
+  {
+    background-color:darkslategrey;
+    color: #fff;
+  }
